@@ -1,0 +1,42 @@
+h1, h2, p, ul, li {
+  font-family: sans-serif;
+}
+h1{
+  color: orangered;
+}
+
+.slogo{
+ background-image: url('/img/back_yellowgreen.jpeg');
+}
+ul.menu li {
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+}
+ul.menu {
+  background-color: rgb(38, 75, 9);
+  padding: 0;
+}
+ul.menu li a {
+  color: #FFF;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 35px;
+  display: inline-block;
+}
+
+.content h2 {
+  padding: 0;
+  margin: 0;
+}
+.content li {
+  margin-bottom: 10px;
+}
+.active:hover {
+  background-color: rgb(130, 177, 0);
+}
+
+footer{
+  background-color: rgb(87, 87, 88);
+  height: 70px;
+}
