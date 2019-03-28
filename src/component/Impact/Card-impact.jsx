@@ -40,7 +40,7 @@ const CardExample = () => {
                 <strong>Rest of the world</strong>
               </MDBCardTitle>
               <p>           
-                  La problématique de la déforestation de Madagascar résulte des actions néfastes de nous-mêmes sur nos terres ancestrales à savoir : le « Tavy » ou culture sur brûlis pour l’agriculture et l’élevage, l’exploitation forestière de nos forêts tropicales de la Côte-Est comme l’exportation sauvage du bois de rose, et enfin la production de charbon de bois en guise de combustible domestique.
+              Madagascar's deforestation problem results from the harmful actions of ourselves on our ancestral lands, namely: the "Tavy" or slash-and-burn crop for agriculture and livestock, the logging of our tropical forests on the Côte -Is like the wild export of rosewood, and finally the production of charcoal as a domestic fuel.
               </p>
               <MDBBtn color="deep-orange">
                 {/* <MDBIcon icon="clone left" /> View project */}

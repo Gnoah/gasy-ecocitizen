@@ -1,13 +1,42 @@
+.container-fluid{
+  background-image: url('/img/back_yellowgreen.jpeg');
+  background-attachment: fixed;
+  background-size: cover;
+}
+.slogo{
+  margin-bottom: 5px;
+}
+.logo{
+  z-index: 99;
+  position: absolute;
+  float: left;
+  margin-top: 20px;
+  margin-left:20px;
+  color: red;
+  font-size: 20px;
+  font-weight: bold;
+}
+.slogan{
+  z-index: 98;
+  position: absolute;
+  margin-top: 50px;
+  margin-left:20px;
+  float: left;
+  color: green;
+  font-size: 20px;
+  font-style: italic;
+}
+
+.reseau{
+  z-index: 100;
+  position: absolute;
+  width:5px;
+}
+
 h1, h2, p, ul, li {
   font-family: sans-serif;
 }
-h1{
-  color: orangered;
-}
 
-.slogo{
- background-image: url('/img/back_yellowgreen.jpeg');
-}
 ul.menu li {
   display: inline;
   list-style-type: none;
@@ -16,12 +45,14 @@ ul.menu li {
 ul.menu {
   background-color: rgb(38, 75, 9);
   padding: 0;
+  opacity: 0.7;
 }
 ul.menu li a {
   color: #FFF;
-  font-weight: bold;
+  font-size: 18px;
+  font-weight: 400;
   text-decoration: none;
-  padding: 35px;
+  padding: 25px;
   display: inline-block;
 }
 
@@ -36,7 +67,3 @@ ul.menu li a {
   background-color: rgb(130, 177, 0);
 }
 
-footer{
-  background-color: rgb(87, 87, 88);
-  height: 70px;
-}
