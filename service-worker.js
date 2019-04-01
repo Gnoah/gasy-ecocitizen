@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/gasy-ecocitizen/precache-manifest.296abf2d8c6590e7d6f26a8904074661.js"
+  "/gasy-ecocitizen/precache-manifest.224834e3c9a180f944344b09d6b0a881.js"
 );
 
 workbox.clientsClaim();

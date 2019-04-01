@@ -36,12 +36,12 @@ self.__precacheManifest = [
     "url": "/gasy-ecocitizen/static/media/fa-regular-400.65b9977a.ttf"
   },
   {
-    "revision": "5e2f92123d241cabecf0b289b9b08d4a",
-    "url": "/gasy-ecocitizen/static/media/fa-brands-400.5e2f9212.woff2"
-  },
-  {
     "revision": "418dad87601f9c8abd0e5798c0dc1feb",
     "url": "/gasy-ecocitizen/static/media/fa-solid-900.418dad87.woff2"
+  },
+  {
+    "revision": "5e2f92123d241cabecf0b289b9b08d4a",
+    "url": "/gasy-ecocitizen/static/media/fa-brands-400.5e2f9212.woff2"
   },
   {
     "revision": "2ef8ba3410dcc71578a880e7064acd7a",
@@ -56,12 +56,12 @@ self.__precacheManifest = [
     "url": "/gasy-ecocitizen/static/media/fa-brands-400.a7b95dbd.eot"
   },
   {
-    "revision": "98b6db59be947f563350d2284fc9ea36",
-    "url": "/gasy-ecocitizen/static/media/fa-brands-400.98b6db59.ttf"
-  },
-  {
     "revision": "5eb754ab7dbd2fee562360528db4c3c0",
     "url": "/gasy-ecocitizen/static/media/fa-regular-400.5eb754ab.svg"
+  },
+  {
+    "revision": "98b6db59be947f563350d2284fc9ea36",
+    "url": "/gasy-ecocitizen/static/media/fa-brands-400.98b6db59.ttf"
   },
   {
     "revision": "46e7cec623d8bd790d9fdbc8de2d3ee7",
@@ -88,10 +88,6 @@ self.__precacheManifest = [
     "url": "/gasy-ecocitizen/static/media/arrow_right.8ef6a08c.svg"
   },
   {
-    "revision": "dfe56a876d0282555d1e2458e278060f",
-    "url": "/gasy-ecocitizen/static/media/Roboto-Thin.dfe56a87.eot"
-  },
-  {
     "revision": "a990f611f2305dc12965f186c2ef2690",
     "url": "/gasy-ecocitizen/static/media/Roboto-Light.a990f611.eot"
   },
@@ -108,6 +104,10 @@ self.__precacheManifest = [
     "url": "/gasy-ecocitizen/static/media/Roboto-Bold.ecdd509c.eot"
   },
   {
+    "revision": "dfe56a876d0282555d1e2458e278060f",
+    "url": "/gasy-ecocitizen/static/media/Roboto-Thin.dfe56a87.eot"
+  },
+  {
     "revision": "954bbdeb86483e4ffea00c4591530ece",
     "url": "/gasy-ecocitizen/static/media/Roboto-Thin.954bbdeb.woff2"
   },
@@ -120,24 +120,16 @@ self.__precacheManifest = [
     "url": "/gasy-ecocitizen/static/media/Roboto-Regular.2751ee43.woff2"
   },
   {
-    "revision": "574fd0b50367f886d359e8264938fc37",
-    "url": "/gasy-ecocitizen/static/media/Roboto-Medium.574fd0b5.woff2"
-  },
-  {
     "revision": "39b2c3031be6b4ea96e2e3e95d307814",
     "url": "/gasy-ecocitizen/static/media/Roboto-Bold.39b2c303.woff2"
   },
   {
-    "revision": "7500519de3d82e33d1587f8042e2afcb",
-    "url": "/gasy-ecocitizen/static/media/Roboto-Thin.7500519d.woff"
+    "revision": "574fd0b50367f886d359e8264938fc37",
+    "url": "/gasy-ecocitizen/static/media/Roboto-Medium.574fd0b5.woff2"
   },
   {
     "revision": "3b813c2ae0d04909a33a18d792912ee7",
     "url": "/gasy-ecocitizen/static/media/Roboto-Light.3b813c2a.woff"
-  },
-  {
-    "revision": "ba3dcd8903e3d0af5de7792777f8ae0d",
-    "url": "/gasy-ecocitizen/static/media/Roboto-Regular.ba3dcd89.woff"
   },
   {
     "revision": "fc78759e93a6cac50458610e3d9d63a0",
@@ -148,24 +140,32 @@ self.__precacheManifest = [
     "url": "/gasy-ecocitizen/static/media/Roboto-Bold.dc81817d.woff"
   },
   {
-    "revision": "94998475f6aea65f558494802416c1cf",
-    "url": "/gasy-ecocitizen/static/media/Roboto-Thin.94998475.ttf"
+    "revision": "7500519de3d82e33d1587f8042e2afcb",
+    "url": "/gasy-ecocitizen/static/media/Roboto-Thin.7500519d.woff"
+  },
+  {
+    "revision": "ba3dcd8903e3d0af5de7792777f8ae0d",
+    "url": "/gasy-ecocitizen/static/media/Roboto-Regular.ba3dcd89.woff"
   },
   {
     "revision": "46e48ce0628835f68a7369d0254e4283",
     "url": "/gasy-ecocitizen/static/media/Roboto-Light.46e48ce0.ttf"
   },
   {
-    "revision": "df7b648ce5356ea1ebce435b3459fd60",
-    "url": "/gasy-ecocitizen/static/media/Roboto-Regular.df7b648c.ttf"
-  },
-  {
     "revision": "894a2ede85a483bf9bedefd4db45cdb9",
     "url": "/gasy-ecocitizen/static/media/Roboto-Medium.894a2ede.ttf"
   },
   {
+    "revision": "df7b648ce5356ea1ebce435b3459fd60",
+    "url": "/gasy-ecocitizen/static/media/Roboto-Regular.df7b648c.ttf"
+  },
+  {
     "revision": "e31fcf1885e371e19f5786c2bdfeae1b",
     "url": "/gasy-ecocitizen/static/media/Roboto-Bold.e31fcf18.ttf"
+  },
+  {
+    "revision": "94998475f6aea65f558494802416c1cf",
+    "url": "/gasy-ecocitizen/static/media/Roboto-Thin.94998475.ttf"
   },
   {
     "revision": "e8f5ca1aa4cdeae89fc785524e57923e",
