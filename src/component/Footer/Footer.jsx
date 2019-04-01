@@ -28,7 +28,7 @@ class Footer extends Component {
                     <a href="/Risk">Risk</a>
                   </p>
                   <p>
-                    <a href="#!">Finding Resolve</a>
+                    <a href="/Resolve">Finding Resolve</a>
                   </p>
                 </div>
         
@@ -37,16 +37,16 @@ class Footer extends Component {
                 <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mt-3">
                   <h6 class="text-uppercase mb-4 font-weight-bold">Useful links</h6>
                   <p>
-                    <a href="#!">Fauna and flora</a>
+                    <a href="https://fr.wikipedia.org/wiki/Faune_de_Madagascar">Fauna</a>
                   </p>
                   <p>
-                    <a href="#!">Become an Affiliate</a>
+                    <a href="https://fr.wikipedia.org/wiki/Flore_de_Madagascar">Flora</a>
                   </p>
                   <p>
-                    <a href="#!">Rates</a>
+                    <a href="https://fr.wikipedia.org/wiki/Madagascar_National_Parks">National Parks</a>
                   </p>
                   <p>
-                    <a href="#!">Help</a>
+                    <a href="https://en.wikipedia.org/wiki/Madagascar">Madagascar</a>
                   </p>
                 </div>
         
