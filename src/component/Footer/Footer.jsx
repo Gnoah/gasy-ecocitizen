@@ -19,13 +19,13 @@ class Footer extends Component {
                 <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mt-3">
                   <h6 class="text-uppercase mb-4 font-weight-bold">Menu</h6>
                   <p>
-                    <a href="#!">Home</a>
+                    <a href="/Home">Home</a>
                   </p>
                   <p>
-                    <a href="#!">Impact</a>
+                    <a href="/Impact">Impact</a>
                   </p>
                   <p>
-                    <a href="#!">Risk</a>
+                    <a href="/Risk">Risk</a>
                   </p>
                   <p>
                     <a href="#!">Finding Resolve</a>

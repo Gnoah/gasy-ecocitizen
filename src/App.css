@@ -19,7 +19,7 @@
 .slogan{
   z-index: 98;
   position: absolute;
-  margin-top: 50px;
+  margin-top: 90px;
   margin-left:20px;
   float: left;
   color: green;
@@ -43,9 +43,9 @@ ul.menu li {
   margin: 0;
 }
 ul.menu {
-  background-color: rgb(38, 75, 9);
+  background-color: rgb(75, 46, 9);
   padding: 0;
-  opacity: 0.7;
+  opacity: 0.8;
 }
 ul.menu li a {
   color: #FFF;

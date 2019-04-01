@@ -10,7 +10,7 @@ class Home extends Component {
         <MDBCarouselInner>
           <MDBCarouselItem itemId="1">
             <MDBView>
-              <img className="d-block w-100 image" src="img/bark-chopped.jpg" alt="First slide" />
+              <img className="d-block w-100 image" src="img/impact03.jpg" alt="First slide" />
               <MDBMask overlay="black-slight" />
             </MDBView>
             <MDBCarouselCaption>
@@ -35,7 +35,7 @@ class Home extends Component {
           </MDBCarouselItem>
           <MDBCarouselItem itemId="3">
             <MDBView>
-              <img className="d-block w-100 image" src="img/back-horizon.jpeg"  width="700px" alt="Third slide" />
+              <img className="d-block w-100 image" src="img/back_yellowgreen.jpeg"  width="700px" alt="Third slide" />
               <MDBMask overlay="black-slight" />
             </MDBView>
             <MDBCarouselCaption>

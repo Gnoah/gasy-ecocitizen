@@ -6,7 +6,6 @@ class Impact extends Component {
   render() {
     return (
       <div>
-        <h1>You know that </h1>
         <Card />
       </div>
     );
